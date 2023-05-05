@@ -1,0 +1,40 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Angular é chato!",
+      "autoria": "Glauber Roque",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Estudando angular",
+      "autoria": "Glauber Roque",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Me adaptando ao angular",
+      "autoria": "Glauber Roque",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Cada qual sabe amar a seu modo; o modo, pouco importa; o essencial é que saiba amar.",
+      "autoria": "Machado de Assis",
+      "modelo": "modelo1",
+      "id": 4
+    },
+    {
+      "conteudo": "Cada qual sabe amar a seu modo; o modo, pouco importa; o essencial é que saiba amar.",
+      "autoria": "Mario Quintana",
+      "modelo": "modelo3",
+      "id": 5
+    },
+    {
+      "conteudo": "Você é burro cara!",
+      "autoria": "Caetano Veloso ",
+      "modelo": "modelo3",
+      "id": 6
+    }
+  ]
+}
